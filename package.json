@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@graphql-codegen/cli": "^5.0.2",
+    "@parcel/watcher": "^2.4.1",
+    "graphql": "^16.9.0"
+  },
+  "scripts": {
+    "codegen": "graphql-codegen --config codegen.ts"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "5.0.2",
+    "@graphql-codegen/typescript": "4.0.9"
+  }
+}
